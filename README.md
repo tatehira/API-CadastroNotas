@@ -4,25 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>API de Gerenciamento de Notas</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-  }
-  h1, h2 {
-    color: #333;
-  }
-  p {
-    color: #666;
-  }
-  ul {
-    list-style-type: disc;
-    margin-left: 20px;
-  }
-  li {
-    margin-bottom: 10px;
-  }
-</style>
 </head>
 <body>
   <h1>API de Gerenciamento de Notas</h1>
